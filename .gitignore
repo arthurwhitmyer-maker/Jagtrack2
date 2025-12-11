@@ -1,2 +1,28 @@
+.env
 node_modules/
 .DS_Store
+dist/
+node_modules/
+.DS_Store
+Screen Width
+Device Type
+Extra Small
+(none)
+< 576px
+Phones (portrait)
+Small
+sm
+≥ 576px
+Phones (landscape)
+Medium
+md
+≥ 768px
+Tablets
+Large
+lg
+≥ 992px
+Laptops
+Extra Large
+xl
+≥ 1200px
+Desktops
